@@ -14,5 +14,5 @@ You work on the analytics team at a large investment bank. While many of the dep
 - Built preliminary decision tree with min of 20 observations per leaf
 - Pruned tree to prevent overfitting
 
-### Data Visualization:
+### Final Decision Tree:
 <img src="images/decision tree.png" width=800>
