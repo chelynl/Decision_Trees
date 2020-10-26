@@ -15,3 +15,4 @@ You work on the analytics team at a large investment bank. While many of the dep
 - Pruned tree to prevent overfitting
 
 ### Data Visualization:
+<img src="images/decision tree.png" width=800>
